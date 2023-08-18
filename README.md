@@ -1,5 +1,6 @@
 ## 簡易聊天室
-簡介：使用socket.io 函式庫，做到Server監聽多個client間的訊息傳遞與狀態
+簡介：使用socket.io 函式庫，實作Server監聽多個client間的訊息傳遞與狀態
+![demo](https://github.com/CharisLai/Simple-Chat/assets/103364394/1b2da8b3-ee33-4b4e-aeef-e06e564c1cb4)
 
 ### 預先安裝
 - node.js 16.x
